@@ -1,6 +1,6 @@
 ![PyTube](https://files.realpython.com/media/python-youtube-channels.f8f0ff39fe05.jpg)
 
-# **Pytube- Analysis of Youtube Traending Videos**
+# **Pytube- Analysis of Youtube Trending Videos**
 
 
 # Introduction
