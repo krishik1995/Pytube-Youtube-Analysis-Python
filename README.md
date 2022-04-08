@@ -1,6 +1,6 @@
 ![PyTube](https://files.realpython.com/media/python-youtube-channels.f8f0ff39fe05.jpg)
 
-# **Pytube-Youtube-Videos-Analysis**
+# **Pytube- Analysis of Youtube Traending Videos**
 
 
 # Introduction
